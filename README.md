@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains a web application prototype that demonstrates the practical application of our LLM-based topic labeling method. Our method leverages LLMs like Llama 2 and Flan-T5 to generate more accurate and descriptive topic labels, enhancing the interpretability of topics derived from document collections. This prototype serves as a concrete example of how our proposed solution can be utilized in real-world scenarios.
+This repository contains a web application prototype designed to showcase our method for generating descriptive labels for topics identified in document collections. While many are familiar with topic modeling, which involves identifying topics within text, our approach focuses on **topic labeling**. This process assigns accurate and meaningful names to those topics. By leveraging advanced language models such as Llama 2 and Flan-T5, our method enhances the interpretability of topic modeling results. This prototype demonstrates how our solution can be applied in practical, real-world scenarios.
 
 ## Technologies Used
 
@@ -107,6 +107,6 @@ The "Document Assignment Explorer" component enables users to visualize document
 
 ## Conclusion
 
-This application demonstrates the potential of LLM-based topic labeling in real-world applications. We encourage you to explore the features and functionalities provided in this prototype.
+This application showcases how LLM-based topic labeling can transform the way we interpret and utilize topics in real-world scenarios. Dive into the prototype, experiment with its features, and see firsthand how it can elevate your understanding of topic modeling results.
 
 
